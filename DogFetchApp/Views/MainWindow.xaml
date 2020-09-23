@@ -73,6 +73,7 @@
                             <UniformGrid Columns="5" HorizontalAlignment="Stretch"/>
                         </ItemsPanelTemplate>
                     </ItemsControl.ItemsPanel>
+                    <!-- Vous pouvez utiliser le contrôle que vous voulez pour présenter les photos -->
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Vertical" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
